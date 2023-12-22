@@ -1,0 +1,287 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "LinnkedList",
+      "request": "launch",
+      "mainClass": "LinnkedList",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "Liinked",
+      "request": "launch",
+      "mainClass": "Liinked",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "Arraysorted",
+      "request": "launch",
+      "mainClass": "Arraysorted",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "printIncreasing",
+      "request": "launch",
+      "mainClass": "printIncreasing",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "RecursionBasics",
+      "request": "launch",
+      "mainClass": "RecursionBasics",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "oddorEvenbit",
+      "request": "launch",
+      "mainClass": "oddorEvenbit",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "LoweercaseVowels",
+      "request": "launch",
+      "mainClass": "LoweercaseVowels",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "CompressString",
+      "request": "launch",
+      "mainClass": "CompressString",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "toUpperCasee",
+      "request": "launch",
+      "mainClass": "toUpperCasee",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "StringBuilde",
+      "request": "launch",
+      "mainClass": "StringBuilde",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "DiagonallySum",
+      "request": "launch",
+      "mainClass": "DiagonallySum",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "dArray",
+      "request": "launch",
+      "mainClass": "dArray",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "StockPrice",
+      "request": "launch",
+      "mainClass": "StockPrice",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "Tap_water11",
+      "request": "launch",
+      "mainClass": "Tap_water11",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "TappedWater",
+      "request": "launch",
+      "mainClass": "TappedWater",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "KadensAlgorithm",
+      "request": "launch",
+      "mainClass": "KadensAlgorithm",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "SubArrays",
+      "request": "launch",
+      "mainClass": "SubArrays",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "pairprintsAerray",
+      "request": "launch",
+      "mainClass": "pairprintsAerray",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "ReverseArray",
+      "request": "launch",
+      "mainClass": "ReverseArray",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "BinarySearchArray",
+      "request": "launch",
+      "mainClass": "BinarySearchArray",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "Arrays",
+      "request": "launch",
+      "mainClass": "Arrays",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "PatternQuestions",
+      "request": "launch",
+      "mainClass": "PatternQuestions",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "HollowwRectangle",
+      "request": "launch",
+      "mainClass": "HollowwRectangle",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "ButterflyPattern",
+      "request": "launch",
+      "mainClass": "ButterflyPattern",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "Calculator",
+      "request": "launch",
+      "mainClass": "Calculator",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "FlyodsTriangle",
+      "request": "launch",
+      "mainClass": "FlyodsTriangle",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "HollowRectangle",
+      "request": "launch",
+      "mainClass": "HollowRectangle",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "JavaPrograming",
+      "request": "launch",
+      "mainClass": "JavaPrograming",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "NumberPyramid",
+      "request": "launch",
+      "mainClass": "NumberPyramid",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "Reverse",
+      "request": "launch",
+      "mainClass": "Reverse",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "Rhombus",
+      "request": "launch",
+      "mainClass": "Rhombus",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "RotatedPyramid",
+      "request": "launch",
+      "mainClass": "RotatedPyramid",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "Switchcase",
+      "request": "launch",
+      "mainClass": "Switchcase",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "ZerooneTraingle",
+      "request": "launch",
+      "mainClass": "ZerooneTraingle",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "invertedpattern",
+      "request": "launch",
+      "mainClass": "invertedpattern",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "primenumber",
+      "request": "launch",
+      "mainClass": "primenumber",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "reverseanumber",
+      "request": "launch",
+      "mainClass": "reverseanumber",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "startpattern",
+      "request": "launch",
+      "mainClass": "startpattern",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "sumofn",
+      "request": "launch",
+      "mainClass": "sumofn",
+      "projectName": "Alpha 1_3066746a"
+    }
+  ]
+}
