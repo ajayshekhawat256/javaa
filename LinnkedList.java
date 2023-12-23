@@ -93,6 +93,18 @@ public class LinnkedList {
         }
         System.out.println();
     }
+    public void reversee(){
+        Node curr=head;
+        Node prev=tail=head;
+        Node next;
+        while (curr!=null) {
+            next=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=next;
+        }
+        prev=head;
+    }
 
     public static void main(String args[]) {
         LinnkedList l1 = new LinnkedList();
@@ -105,6 +117,7 @@ public class LinnkedList {
         System.out.println(l1.itrSearch(19));
         l1.reverse();
         l1.printlinkedlist();
+        reversee
 
     }
 }
