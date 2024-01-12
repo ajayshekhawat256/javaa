@@ -117,5 +117,5 @@ public class Liinked{
         System.out.println(iscycle());
 
         System.out.println(l1.checkIfPallindrome());
-    }
+    } 
 }

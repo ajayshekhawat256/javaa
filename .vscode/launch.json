@@ -6,6 +6,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BinaryTreee",
+      "request": "launch",
+      "mainClass": "BinaryTreee",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "BinaryTreeB",
+      "request": "launch",
+      "mainClass": "BinaryTreeB",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "Recursive",
+      "request": "launch",
+      "mainClass": "Recursive",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "StackB",
+      "request": "launch",
+      "mainClass": "StackB",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "Arraylist",
+      "request": "launch",
+      "mainClass": "Arraylist",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
+      "name": "pallindrome",
+      "request": "launch",
+      "mainClass": "pallindrome",
+      "projectName": "Alpha 1_3066746a"
+    },
+    {
+      "type": "java",
       "name": "LinnkedList",
       "request": "launch",
       "mainClass": "LinnkedList",

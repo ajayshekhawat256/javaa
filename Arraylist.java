@@ -1,6 +1,34 @@
 import java.util.ArrayList;
 
 public class Arraylist {
+    public class Person{
+        String name;
+        int age;
+        Person(String name,int age){
+            this.name=name;
+            this.age=age;
+        }
+        
+        public Person() {
+        }
+
+        public String getName() {
+            return name;
+        }
+
+        public void setName(String name) {
+            this.name = name;
+        }
+
+        public int getAge() {
+            return age;
+        }
+
+        public void setAge(int age) {
+            this.age = age;
+        }
+    }
+    
     public static int maxWater(ArrayList<Integer> height) {
         int maxWaterr = 0;
         for (int i = 0; i < height.size(); i++) {
@@ -46,7 +74,6 @@ public class Arraylist {
             }
         }
         return false;
-
     }
 
     public static void main(String args[]) {
@@ -60,6 +87,26 @@ public class Arraylist {
         list.add(8);
         list.add(3);
         list.add(7);
+        ArrayList<Integer> l1=new ArrayList<>();
+        ArrayList<Person> p1=new ArrayList<>();
+
+        //Person p2Person=new Person("aah",45);
+       // p1.add(p2Person);
+        Person p1Person=new Person();
+        p1Person.age=56;
+
+        p1.add(p1Person);
+        System.out.println(p1);
+
+
+       // Arraylist.Person p2Person=new Arraylist.Person("Ram", 10);
+       // p1.add(p2Person);
+        l1.add(1);
+        l1.add(2);
+        l1.add(3);
+        l1.add(4);
+        System.out.println(l1);
+
         System.out.println(maxWater(list));
         System.out.println(maxWater(list));
         System.out.println(list);
